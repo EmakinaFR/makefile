@@ -45,9 +45,3 @@ Available commands
 | -------- | ---------------------------------------------- |
 | phpcs    | Lint PHP code                                  |
 | phpcsfix | Lint and fix PHP code to follow the convention |
-
-### Utils
-
-| Command | Description       |
-| ------- | ----------------- |
-| cron    | Execute cron jobs |
