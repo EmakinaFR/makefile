@@ -3,7 +3,8 @@ Makefile for Proximis
 
 The following commands can be listed by typing **make** in your terminal at the root of your project.
 
-### Requirements
+Requirements
+------------
 
 Before using this file in a Proximis project, you must replace **{Vendor}** and **{Theme}** with the names of your Vendor and Theme folders.
 
